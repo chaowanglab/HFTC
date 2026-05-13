@@ -1,6 +1,8 @@
 # HFTC
 # 1.Description
 Classifying fungal species via ITS sequences effectively is vital for ecology and society. Existing models fall short. We introduce HFTC, a tree - structured multi - level model, slashing feature dimensions and boosting hierarchical accuracy in full classification. 
+# References
+Jiawei Wang, …, Chao Wang*, HFTC: a hierarchical fungal taxonomic classification model for ITS sequences using low-dimensional embedding features. Frontiers in Genetics. 2025,16:1650244
 # 2. HFTC framefowk
 ![MITS framefowk](/framework.png)
 # 3.Availability
